@@ -73,3 +73,12 @@ Média ponderada pelo número de exemplos de cada classe.
                accuracy                           0.80         5
               macro avg       0.88      0.75      0.76         5
            weighted avg       0.85      0.80      0.78         5
+
+## 3.0
+                         precision    recall  f1-score   support
+    nao_representacao       1.00      1.00      1.00         4
+        representacao       1.00      1.00      1.00         3
+    
+             accuracy                           1.00         7
+            macro avg       1.00      1.00      1.00         7
+         weighted avg       1.00      1.00      1.00         7
