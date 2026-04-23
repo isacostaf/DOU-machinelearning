@@ -84,10 +84,19 @@ Média ponderada pelo número de exemplos de cada classe.
          weighted avg       1.00      1.00      1.00         7
 
 ## 4.0
-                       precision    recall  f1-score   support
+                           precision    recall  f1-score   support
       nao_representacao       1.00      1.00      1.00         6
           representacao       1.00      1.00      1.00         5
       
                accuracy                           1.00        11
               macro avg       1.00      1.00      1.00        11
            weighted avg       1.00      1.00      1.00        11
+
+## 5.0
+                         precision    recall  f1-score   support
+    nao_representacao       1.00      1.00      1.00        11
+        representacao       1.00      1.00      1.00        10
+    
+             accuracy                           1.00        21
+            macro avg       1.00      1.00      1.00        21
+         weighted avg       1.00      1.00      1.00        21
