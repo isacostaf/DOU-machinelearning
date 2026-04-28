@@ -1,5 +1,9 @@
 # DOU-machinelearning
 
+npm install express multer pdf-parse
+npm init -y
+npm install express multer pdf-parse
+
 ## 🧠 Como interpretar
 
 ### ✔️ Precision (Precisão)
